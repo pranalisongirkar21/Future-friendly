@@ -1,2 +1,2 @@
 # Future-friendly
-My first rrepository on github..
+My first repository on github..
